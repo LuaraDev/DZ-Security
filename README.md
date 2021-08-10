@@ -10,10 +10,10 @@ First of all, thanks for your support and for checking-out our new release, to g
 - Open source.
 
 ## Discord Bot Usage
-    - !create <ip> <resource-type> <customer> (!create 166.150.230.7 banking luara)
-    - !delete <license> (!delete WQ5OYABONBW4BN0)
-    - !change <license> <resource-type> (!change WQ5OYABONBW4BN0 activity)
-    - !listall
+    !create <ip> <resource-type> <customer> (!create 166.150.230.7 banking luara)
+    !delete <license> (!delete WQ5OYABONBW4BN0)
+    !change <license> <resource-type> (!change WQ5OYABONBW4BN0 activity)
+    !listall
 
 ## Discord Bot Explain
 
