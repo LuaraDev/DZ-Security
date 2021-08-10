@@ -95,3 +95,5 @@ bot.login("TOKEN");
 
 
 Please note that we are not responsible for leaks or publications if you do not take care of encrypting or obfuscation the script!
+
+Our intention is to get our possible maximum security to your script, but we do not help with encryption or obscuration.
